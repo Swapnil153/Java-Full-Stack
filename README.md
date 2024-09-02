@@ -1,1 +1,1 @@
-# Pinterest-Clone-FrontEnd
+# CraftSpot Frontend
